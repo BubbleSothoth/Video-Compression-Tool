@@ -18,7 +18,7 @@ https://ffmpeg.org/download.html
 ```
 ### 使用说明
 ```
-视频压缩工具.py -i InputVideo -o OutputVideo"
+视频压缩工具.py -i InputVideo -o OutputVideo
 -i InputVideo:  导入视频文件
 -o OutputVideo: 输出视频文件
 ```
